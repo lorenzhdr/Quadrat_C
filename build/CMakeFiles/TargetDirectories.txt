@@ -1,3 +1,3 @@
-C:/Users/Loren/Desktop/Informatik/05_raute/build/CMakeFiles/raute.dir
-C:/Users/Loren/Desktop/Informatik/05_raute/build/CMakeFiles/edit_cache.dir
-C:/Users/Loren/Desktop/Informatik/05_raute/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Loren/Desktop/Informatik_priv/05_quadrat/build/CMakeFiles/raute.dir
+C:/Users/Loren/Desktop/Informatik_priv/05_quadrat/build/CMakeFiles/edit_cache.dir
+C:/Users/Loren/Desktop/Informatik_priv/05_quadrat/build/CMakeFiles/rebuild_cache.dir

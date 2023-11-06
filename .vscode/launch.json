@@ -10,7 +10,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "raute",  // Name der Launch-Konfiguration wie unter Run and Debug angezeigt wird
+            "name": "quadrat",  // Name der Launch-Konfiguration wie unter Run and Debug angezeigt wird
             "request": "launch",    // Launch-Konfiguration
             "type": "cppdbg",       // Art der Konfiguration. cppdbg für gdb oder lldb
 

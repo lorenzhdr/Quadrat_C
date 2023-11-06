@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/Loren/Desktop/Informatik/05_raute/build",
-  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\raute.dir\\src\\main.c.obj -c C:\\Users\\Loren\\Desktop\\Informatik\\05_raute\\src\\main.c",
-  "file": "C:\\Users\\Loren\\Desktop\\Informatik\\05_raute\\src\\main.c",
+  "directory": "C:/Users/Loren/Desktop/Informatik_priv/05_quadrat/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\raute.dir\\src\\main.c.obj -c C:\\Users\\Loren\\Desktop\\Informatik_priv\\05_quadrat\\src\\main.c",
+  "file": "C:\\Users\\Loren\\Desktop\\Informatik_priv\\05_quadrat\\src\\main.c",
   "output": "CMakeFiles\\raute.dir\\src\\main.c.obj"
 }
 ]
