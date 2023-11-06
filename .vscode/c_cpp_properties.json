@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Desktop",
+            /* CMake generiert bei Ausführung eine Datei mit build-Kommandos.
+             * Diese Datei wird von VS Code interpretiert und z.B. in CMake 
+             * konfigurierte include-Pfade, usw. ausgelesen. Daher werden includes
+             * vor dem ersten Bauen zunächst noch rot unterkringelt sein.
+             */ 
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        } 
+    ], 
+    "version": 4
+}
